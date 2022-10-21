@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnal", "LogAnal\LogAnal.csproj", "{17378849-B69F-45F1-8C21-FEAACD196C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17378849-B69F-45F1-8C21-FEAACD196C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17378849-B69F-45F1-8C21-FEAACD196C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17378849-B69F-45F1-8C21-FEAACD196C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17378849-B69F-45F1-8C21-FEAACD196C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC89F546-C828-44F0-82CD-7FB01B65C494}
+	EndGlobalSection
+EndGlobal
